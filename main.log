@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.12)  29 DEC 2022 13:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.12)  29 DEC 2022 14:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -235,405 +235,79 @@ Package titlesec Warning: Non standard sectioning command \paragraph
 Package titlesec Warning: Non standard sectioning command \subparagraph
 (titlesec)                detected. Using default spacing and no format.
 
-) (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
+ (c:/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count295
+)
+\MT@toks=\toks19
+\MT@tempbox=\box54
+\MT@count=\count296
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
+LaTeX Info: Redefining \leftprotrusion on input line 1046.
+LaTeX Info: Redefining \rightprotrusion on input line 1056.
+LaTeX Info: Redefining \textls on input line 1234.
+\MT@outer@kern=\dimen156
+LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
+\MT@listname@count=\count297
+ (c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 900.
+LaTeX Info: Redefining \lslig on input line 900.
+\MT@outer@space=\skip66
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
+)) (c:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty (c:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
+ (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count295
-\l__pdf_internal_box=\box54
-) (./main.aux)
-\openout1 = `main.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-Package scrbase Info: activating english \abstractname on input line 9.
-Package scrbase Info: activating english \partname on input line 9.
-Package scrbase Info: activating english \chaptername on input line 9.
-Package scrbase Info: activating english \appendixname on input line 9.
-Package scrbase Info: activating english \figurename on input line 9.
-Package scrbase Info: activating english \tablename on input line 9.
-Package scrbase Info: activating english \contentsname on input line 9.
-Package scrbase Info: activating english \listfigurename on input line 9.
-Package scrbase Info: activating english \listtablename on input line 9.
-Package scrbase Info: activating english \bibname on input line 9.
-Package scrbase Info: activating english \indexname on input line 9.
-
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(71.13188pt, 469.47049pt, 56.9055pt)
-* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=469.47049pt
-* \textheight=702.78308pt
-* \oddsidemargin=-1.1381pt
-* \evensidemargin=-1.1381pt
-* \topmargin=-41.0131pt
-* \headheight=18.125pt
-* \headsep=21.75pt
-* \topskip=12.0pt
-* \footskip=50.75pt
-* \marginparwidth=49.79233pt
-* \marginparsep=12.8401pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-(c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count296
-\scratchdimen=\dimen156
-\scratchbox=\box55
-\nofMPsegments=\count297
-\nofMParguments=\count298
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count299
-\MPscratchDim=\dimen157
-\MPnumerator=\count300
-\makeMPintoPDFobject=\count301
-\everyMPtoPDFconversion=\toks20
-) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+\l__color_backend_stack_int=\count298
+\l__pdf_internal_box=\box55
 ))
-\openout2 = `misc/title.aux'.
-
- (./misc/title.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 3--40
- [] 
- []
-
-[1
-
-
-
-
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-\openout2 = `misc/abstract.aux'.
-
- (./misc/abstract.tex [2
-
-
-
-
-
-])
-
-Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makeschapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makeschapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-No file main.toc.
-\tf@toc=\write3
-\openout3 = `main.toc'.
-
-[3
-
-
-
-]
-\openout2 = `chapter/introduction.aux'.
-
- (./chapter/introduction.tex
-chapter 1.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--26
-
- []
-
-) [4
-
-
-]
-\openout2 = `chapter/data.aux'.
-
- (./chapter/data.tex
-chapter 2.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-<graphics/householdsurvey1.jpg, id=20, 532.23843pt x 377.15906pt>
-File: graphics/householdsurvey1.jpg Graphic file (type jpg)
-<use graphics/householdsurvey1.jpg>
-Package pdftex.def Info: graphics/householdsurvey1.jpg  used on input line 11.
-(pdftex.def)             Requested size: 266.11856pt x 188.57907pt.
-<graphics/householdsurvey2.jpg, id=22, 520.19344pt x 372.64218pt>
-File: graphics/householdsurvey2.jpg Graphic file (type jpg)
-<use graphics/householdsurvey2.jpg>
-Package pdftex.def Info: graphics/householdsurvey2.jpg  used on input line 12.
-(pdftex.def)             Requested size: 260.09607pt x 186.32063pt.
-<graphics/templ1.jpg, id=24, 549.55313pt x 304.13625pt>
-File: graphics/templ1.jpg Graphic file (type jpg)
-<use graphics/templ1.jpg>
-Package pdftex.def Info: graphics/templ1.jpg  used on input line 28.
-(pdftex.def)             Requested size: 469.47049pt x 259.82571pt.
-
-Overfull \hbox (40.60477pt too wide) in paragraph at lines 3--35
-\OT1/cmr/m/n/12 ing/household items con-tains en-ergy, tex-tiles/apparel, elec-tric/electronics, house-hold items/furniture
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--35
-
- []
-
-[5
-
-
-
-
- <./graphics/householdsurvey1.jpg> <./graphics/householdsurvey2.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 36--43
-
- []
-
-) [6 <./graphics/templ1.jpg>] [7]
-\openout2 = `chapter/study.aux'.
-
- (./chapter/study.tex
-chapter 3.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--42
-
- []
-
-[8
-
-
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 67--76
-
- []
-
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
-
- []
-
-
-LaTeX Warning: Reference `eq:equation4' on page 10 undefined on input line 93.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--98
-
- []
-
-<graphics/propoor.jpg, id=51, 285.31593pt x 472.76625pt>
-File: graphics/propoor.jpg Graphic file (type jpg)
-<use graphics/propoor.jpg>
-Package pdftex.def Info: graphics/propoor.jpg  used on input line 128.
-(pdftex.def)             Requested size: 142.65761pt x 236.38254pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--132
-
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<graphics/prorich.jpg, id=53, 539.76656pt x 481.8pt>
-File: graphics/prorich.jpg Graphic file (type jpg)
-<use graphics/prorich.jpg>
-Package pdftex.def Info: graphics/prorich.jpg  used on input line 135.
-(pdftex.def)             Requested size: 269.88261pt x 240.8994pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-./chapter/study.tex:139: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+
+c:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty:45: Fatal Package fontspec Error: The fontspec package requires either XeTeX or
+(fontspec)                      LuaTeX.
+(fontspec)                      
+(fontspec)                      You must change your typesetting engine to,
+(fontspec)                      e.g., "xelatex" or "lualatex" instead of
+(fontspec)                      "latex" or "pdflatex".
+
+Type <return> to continue.
  ...                                              
                                                   
-l.139 T
-       o tackle the possible trade-off between income inequality and average...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.45 \msg_fatal:nn {fontspec} {cannot-use-pdftex}
+                                                 
 
-[10] [11 <./graphics/propoor.jpg> <./graphics/prorich.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 161--169
+LaTeX does not know anything more about this error, sorry.
 
- []
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
 
-
-LaTeX Warning: Reference `fig:tradereso' on page 12 undefined on input line 186.
-
-<graphics/trade-off-reso.jpg, id=64, 561.59813pt x 453.94594pt>
-File: graphics/trade-off-reso.jpg Graphic file (type jpg)
-<use graphics/trade-off-reso.jpg>
-Package pdftex.def Info: graphics/trade-off-reso.jpg  used on input line 192.
-(pdftex.def)             Requested size: 469.47049pt x 379.47643pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 176--196
-
- []
-
-[12]
-<graphics/protectionist.jpg, id=70, 484.81125pt x 458.46281pt>
-File: graphics/protectionist.jpg Graphic file (type jpg)
-<use graphics/protectionist.jpg>
-Package pdftex.def Info: graphics/protectionist.jpg  used on input line 211.
-(pdftex.def)             Requested size: 469.47049pt x 443.98085pt.
-) [13 <./graphics/trade-off-reso.jpg>] [14 <./graphics/protectionist.jpg>]
-\openout2 = `chapter/critic.aux'.
-
- (./chapter/critic.tex
-chapter 4.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--47
-
- []
-
-[15
+This is a fatal error: LaTeX will abort.
 
 
 
+c:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty:45: Emergency stop.
+<read *> 
+         
+l.45 \msg_fatal:nn {fontspec} {cannot-use-pdftex}
+                                                 
+*** (cannot \read from terminal in nonstop modes)
 
-]) [16]
-\openout2 = `chapter/conclusion.aux'.
-
- (./chapter/conclusion.tex
-chapter 5.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--31
-
- []
-
-[17
-
-
-
-
-]) [18] (./main.aux (./misc/title.aux) (./misc/abstract.aux) (./chapter/introduction.aux) (./chapter/data.aux) (./chapter/study.aux) (./chapter/critic.aux) (./chapter/conclusion.aux))
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+ 
 Here is how much of TeX's memory you used:
- 5520 strings out of 475071
- 116627 string characters out of 5782907
- 602382 words of memory out of 5000000
- 26869 multiletter control sequences out of 15000+600000
- 475967 words of font info for 50 fonts, out of 8000000 for 9000
+ 6736 strings out of 475071
+ 134816 string characters out of 5782907
+ 640076 words of memory out of 5000000
+ 28141 multiletter control sequences out of 15000+600000
+ 469557 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,14n,106p,10680b,341s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (18 pages, 694492 bytes).
-PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 108i,1n,106p,10680b,270s stack positions out of 10000i,1000n,20000p,200000b,200000s
+c:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty:45:  ==> Fatal error occurred, no output PDF file produced!
