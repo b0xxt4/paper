@@ -1,0 +1,24 @@
+\documentclass[a4paper, 12pt, english, headings=normal, parskip=half]{scrreprt}
+\usepackage{layout}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{titlesec}
+
+\geometry{left=2.5cm, right=2cm, top=2.5cm, bottom=2.5cm}
+
+\begin{document}
+%\frontmatter
+    \include{misc/title}
+    \include{misc/abstract}
+    \tableofcontents
+
+%\mainmatter
+    \include{chapter/introduction}
+    \include{chapter/data}
+    \include{chapter/study}
+    \include{chapter/critic}
+    \include{chapter/conclusion}
+
+%\backmatter
+
+\end{document}

@@ -1,0 +1,6 @@
+PWD c:/Users/hoelt/OneDrive - hs-bochum.de/Semester 7/IEP/paper/chapter
+INPUT c:/texlive/2022/texmf.cnf
+INPUT c:/texlive/2022/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/hoelt/OneDrive - hs-bochum.de/Semester 7/IEP/paper/chapter/introduction.tex
+OUTPUT introduction.log
