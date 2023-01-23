@@ -1,20 +1,26 @@
-\documentclass[a4paper, 12pt, english, headings=normal, parskip=half]{scrreprt}
+\documentclass[a4paper, 12pt, english]{article}
 \usepackage{layout}
 \usepackage{geometry}
 \usepackage{graphicx}
 \usepackage{titlesec}
 \usepackage[final]{microtype}
-
+\usepackage[T1]{fontenc}
+\usepackage{csquotes}
+\usepackage[style=authoryear,backend=biber]{biblatex}
 
 \geometry{left=2.5cm, right=2cm, top=2.5cm, bottom=2.5cm}
 
+\addbibresource{references.bib}
+
 \begin{document}
 %\frontmatter
+    \pagenumbering{gobble}
     \include{misc/title}
-    \include{misc/abstract}
     \tableofcontents
 
+
 %\mainmatter
+    \pagenumbering{arabic}
     \include{chapter/introduction}
     \include{chapter/data}
     \include{chapter/study}
@@ -22,5 +28,11 @@
     \include{chapter/conclusion}
 
 %\backmatter
+
+\begingroup
+\sloppy
+\printbibliography
+\include{misc/declaration}
+\endgroup
 
 \end{document}

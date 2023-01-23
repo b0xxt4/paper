@@ -1,0 +1,746 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Anderson.1996}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c23d465b23b02f8b89302ec057870458}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b704dc4d6c0edef30854b869c05022b2}{%
+           family={Neary},
+           familyi={N\bibinitperiod},
+           given={J.\bibnamedelimi Peter},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b8f88274e4d249b6be2b390335c9ef3f}
+      \strng{fullhash}{b8f88274e4d249b6be2b390335c9ef3f}
+      \strng{bibnamehash}{b8f88274e4d249b6be2b390335c9ef3f}
+      \strng{authorbibnamehash}{b8f88274e4d249b6be2b390335c9ef3f}
+      \strng{authornamehash}{b8f88274e4d249b6be2b390335c9ef3f}
+      \strng{authorfullhash}{b8f88274e4d249b6be2b390335c9ef3f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper introduces a new index number, the Trade Restrictiveness Index, which measures the restrictiveness of a system of trade protection. The index is a general equilibrium application of the distance function and answers the question: {"}What uniform set of trade restrictions is equivalent (in welfare terms) to the initial protective structure?{"} The index is applicable to both tariffs and quotas and permits international and intertemporal comparisons. The index is operational and we provide two empirical examples to illustrate its applicability and to show its superiority to commonly used measures.}
+      \field{journaltitle}{Review of Economic Studies}
+      \field{number}{1}
+      \field{title}{A New Approach to Evaluating Trade Policy}
+      \field{volume}{63}
+      \field{year}{1996}
+      \field{pages}{107\bibrangedash 125}
+      \range{pages}{19}
+      \verb{urlraw}
+      \verb https://EconPapers.repec.org/RePEc:oup:restud:v:63:y:1996:i:1:p:107-125.
+      \endverb
+      \verb{url}
+      \verb https://EconPapers.repec.org/RePEc:oup:restud:v:63:y:1996:i:1:p:107-125.
+      \endverb
+    \endentry
+    \entry{Arkolakis.2012}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0c99d9d323f323ffc11adc74acb24b4f}{%
+           family={Arkolakis},
+           familyi={A\bibinitperiod},
+           given={Costas},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1dc24423c99ae873091803ac18c0577}{%
+           family={Costinot},
+           familyi={C\bibinitperiod},
+           given={Arnaud},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f369a3d29c2023d1d03833c045904d3}{%
+           family={Rodríguez-Clare},
+           familyi={R\bibinithyphendelim C\bibinitperiod},
+           given={Andrés},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2fecb44548aa9517c3a4a498e56b7e71}
+      \strng{fullhash}{2fecb44548aa9517c3a4a498e56b7e71}
+      \strng{bibnamehash}{2fecb44548aa9517c3a4a498e56b7e71}
+      \strng{authorbibnamehash}{2fecb44548aa9517c3a4a498e56b7e71}
+      \strng{authornamehash}{2fecb44548aa9517c3a4a498e56b7e71}
+      \strng{authorfullhash}{2fecb44548aa9517c3a4a498e56b7e71}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Micro-level data have had a profound influence on research in international trade over the last ten years. In many regards, this research agenda has been very successful. New stylized facts have been uncovered and new trade models have been developed to explain these facts. In this paper we investigate to what extent answers to new micro-level questions have affected answers to an old and central question in the field: how large are the welfare gains from trade? A crude summary of our results is: ``So far, not much.'' (JEL F11, F12)}
+      \field{issn}{0002-8282}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{1}
+      \field{title}{New Trade Models, Same Old Gains?}
+      \field{volume}{102}
+      \field{year}{2012}
+      \field{pages}{94\bibrangedash 130}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1257/aer.102.1.94
+      \endverb
+      \verb{file}
+      \verb aer.102.1.94:Attachments/aer.102.1.94.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Artuc.2022}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=64b5160dbaf642f1235eab683006d95e}{%
+           family={Artuc},
+           familyi={A\bibinitperiod},
+           given={Erhan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4f3994c920728221dcaf1f5b403c77e}{%
+           family={Porto},
+           familyi={P\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db864aec6b7cd54e2217cf75a880f36a}{%
+           family={Rijkers},
+           familyi={R\bibinitperiod},
+           given={Bob},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{2}{%
+        {Springer International Publishing}%
+        {Imprint Springer}%
+      }
+      \strng{namehash}{c882fddb65b309cf5b50b5c06bfd64f7}
+      \strng{fullhash}{c882fddb65b309cf5b50b5c06bfd64f7}
+      \strng{bibnamehash}{c882fddb65b309cf5b50b5c06bfd64f7}
+      \strng{authorbibnamehash}{c882fddb65b309cf5b50b5c06bfd64f7}
+      \strng{authornamehash}{c882fddb65b309cf5b50b5c06bfd64f7}
+      \strng{authorfullhash}{c882fddb65b309cf5b50b5c06bfd64f7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Chapter 1: Introduction -- Chapter 2: An Agricultural Household Model with Tariffs -- Chapter 3: Data and Estimation -- Chapter 4: Income Gains and Inequality Costs -- Chapter 5: The Trade-Off -- Chapter 6: Alternative Models -- Chapter 7: HIT: Household Impacts of Trade -- Chapter 8: Conclusions -- Bibliography. This volume examines the relationship between trade liberalization policies and income inequality in developing countries. Using survey data for 54 developing countries, the book explores the potential trade-off between the gains from trade and the distribution of those gains and provides a quantification of the inequality-adjusted welfare gains from trade. The book begins with an introduction to the model and its methodology. Chapter 2 sets up the model and derives the formulas for the welfare eﬀects of trade policy. Chapter 3 uses the tariﬀ data and the survey data to estimate those welfare eﬀects in 54 countries. Chapter 4 discusses the gains from trade and their distribution. Chapter 5 evaluates and quantiﬁes the trade-oﬀ between income gains and inequality costs of trade. Chapter 6 presents robustness tests and results from alternative models of the impacts of trade. The last chapter reviews the Household Impacts of Trade database and dashboard, which provides data for replication and a platform that allows researchers to simulate agricultural tariﬀ policy shocks. Providing a comprehensive empirical analysis of the effects of trade policy on inequality in developing countries, this volume will be of interest to researchers and students of economic inequality, development, and international trade as well as policymakers interested in the inequality and poverty consequences of trade policy.}
+      \field{isbn}{9783030930608}
+      \field{series}{Springer eBook Collection}
+      \field{title}{The Inequality Adjusted Gains from Trade: Evidence from Developing Countries}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1007/978-3-030-93060-8
+      \endverb
+      \verb{file}
+      \verb 978-3-030-93060-8:Attachments/978-3-030-93060-8.pdf:application/pdf
+      \endverb
+      \keyw{Agriculture;Cost of Living;Development economics;Gains from Trade;Globalization;Income gains;Inequality;International economic integration;International trade;Low income countries;Poverty;Tariffs;Trade integration;Welfare}
+    \endentry
+    \entry{Artuc.2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=64b5160dbaf642f1235eab683006d95e}{%
+           family={Artuc},
+           familyi={A\bibinitperiod},
+           given={Erhan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db864aec6b7cd54e2217cf75a880f36a}{%
+           family={Rijkers},
+           familyi={R\bibinitperiod},
+           given={Bob},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4f3994c920728221dcaf1f5b403c77e}{%
+           family={Porto},
+           familyi={P\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0cbb3922890a474edf1a946197a0cc66}
+      \strng{fullhash}{0cbb3922890a474edf1a946197a0cc66}
+      \strng{bibnamehash}{0cbb3922890a474edf1a946197a0cc66}
+      \strng{authorbibnamehash}{0cbb3922890a474edf1a946197a0cc66}
+      \strng{authornamehash}{0cbb3922890a474edf1a946197a0cc66}
+      \strng{authorfullhash}{0cbb3922890a474edf1a946197a0cc66}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Trading off the Income Gains and the Inequality Costs of Trade Policy}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1596/1813-9450-8825
+      \endverb
+      \verb{file}
+      \verb Artuc et al:Attachments/Artuc et al.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Atkinson.1970}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e22cabdfbe6893b9dc69a6fa95149fa5}{%
+           family={Atkinson},
+           familyi={A\bibinitperiod},
+           given={Anthony\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e22cabdfbe6893b9dc69a6fa95149fa5}
+      \strng{fullhash}{e22cabdfbe6893b9dc69a6fa95149fa5}
+      \strng{bibnamehash}{e22cabdfbe6893b9dc69a6fa95149fa5}
+      \strng{authorbibnamehash}{e22cabdfbe6893b9dc69a6fa95149fa5}
+      \strng{authornamehash}{e22cabdfbe6893b9dc69a6fa95149fa5}
+      \strng{authorfullhash}{e22cabdfbe6893b9dc69a6fa95149fa5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-0531}
+      \field{journaltitle}{Journal of Economic Theory}
+      \field{number}{3}
+      \field{title}{On the measurement of inequality}
+      \field{volume}{2}
+      \field{year}{1970}
+      \field{pages}{244\bibrangedash 263}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/0022-0531(70)90039-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0022053170900396
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0022053170900396
+      \endverb
+    \endentry
+    \entry{Benjamin.1993}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fdde3e4892dde5a2b4c54cfacc263672}{%
+           family={Benjamin},
+           familyi={B\bibinitperiod},
+           given={Dwayne},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49e860b4f71d798fa4f5cf1c90103fc4}{%
+           family={Deaton},
+           familyi={D\bibinitperiod},
+           given={Angus},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a029955c3345075a4bf3fc70e068fa5}
+      \strng{fullhash}{3a029955c3345075a4bf3fc70e068fa5}
+      \strng{bibnamehash}{3a029955c3345075a4bf3fc70e068fa5}
+      \strng{authorbibnamehash}{3a029955c3345075a4bf3fc70e068fa5}
+      \strng{authornamehash}{3a029955c3345075a4bf3fc70e068fa5}
+      \strng{authorfullhash}{3a029955c3345075a4bf3fc70e068fa5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{02586770}
+      \field{journaltitle}{The World Bank Economic Review}
+      \field{number}{3}
+      \field{title}{Household Welfare and the Pricing of Cocoa and Coffee in Cote d'Ivoire: Lessons from the Living Standards Surveys}
+      \field{volume}{7}
+      \field{year}{1993}
+      \field{pages}{293\bibrangedash 318}
+      \range{pages}{26}
+      \verb{urlraw}
+      \verb https://EconPapers.repec.org/RePEc:oup:wbecrv:v:7:y:1993:i:3:p:293-318
+      \endverb
+      \verb{url}
+      \verb https://EconPapers.repec.org/RePEc:oup:wbecrv:v:7:y:1993:i:3:p:293-318
+      \endverb
+    \endentry
+    \entry{Berthou.2011}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=141df67b72812a842abd592b15e3c418}{%
+           family={Berthou},
+           familyi={B\bibinitperiod},
+           given={Antoine},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=389ea6fccd3ea730c4c55a0993722a17}{%
+           family={Emlinger},
+           familyi={E\bibinitperiod},
+           given={Charlotte},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d9947da241cd8530494cd72d425c3f9f}
+      \strng{fullhash}{d9947da241cd8530494cd72d425c3f9f}
+      \strng{bibnamehash}{d9947da241cd8530494cd72d425c3f9f}
+      \strng{authorbibnamehash}{d9947da241cd8530494cd72d425c3f9f}
+      \strng{authornamehash}{d9947da241cd8530494cd72d425c3f9f}
+      \strng{authorfullhash}{d9947da241cd8530494cd72d425c3f9f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{International Economics, 128 (2011) 97-117. doi:10.1016/S2110-7017(13)60005-0}
+      \field{issn}{21107017}
+      \field{journaltitle}{International Economics}
+      \field{title}{The Trade Unit Values database}
+      \field{volume}{128}
+      \field{year}{2011}
+      \field{pages}{97\bibrangedash 117}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1016/S2110-7017(13)60005-0
+      \endverb
+      \verb{file}
+      \verb 1-s2.0-S2110701713600050-main:Attachments/1-s2.0-S2110701713600050-main.pdf:application/pdf
+      \endverb
+      \keyw{commerce international;E3;F1;F4;International trade;prix du commerce;Trade Price;Unit Value;Valeur unitaire}
+    \endentry
+    \entry{Blumenstock.2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9843359a5181746f01315345c9945d84}{%
+           family={Blumenstock},
+           familyi={B\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1573acfb56bf1250d7006ea9cc4ed2c}{%
+           family={Cadamuro},
+           familyi={C\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f61cb6e5e03c1dec7aa138423252fec3}{%
+           family={On},
+           familyi={O\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c3887558f0abb10796319073e70adad4}
+      \strng{fullhash}{c3887558f0abb10796319073e70adad4}
+      \strng{bibnamehash}{c3887558f0abb10796319073e70adad4}
+      \strng{authorbibnamehash}{c3887558f0abb10796319073e70adad4}
+      \strng{authornamehash}{c3887558f0abb10796319073e70adad4}
+      \strng{authorfullhash}{c3887558f0abb10796319073e70adad4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In developing countries, collecting data on basic economic quantities, such as wealth and income, is costly, time-consuming, and unreliable. Taking advantage of the ubiquity of mobile phones in Rwanda, Blumenstock et al. mapped mobile phone metadata inputs to individual phone subscriber wealth. They applied the model to predict wealth throughout Rwanda and show that the predictions matched well with those from detailed boots-on-the-ground surveys of the population. Science, this issue p. 1073 Metadata from individuals? phones can be used to predict aggregate-level characteristics such as access to electricity. Accurate and timely estimates of population characteristics are a critical input to social and economic research and policy. In industrialized economies, novel sources of data are enabling new approaches to demographic profiling, but in developing countries, fewer sources of big data exist. We show that an individual?s past history of mobile phone use can be used to infer his or her socioeconomic status. Furthermore, we demonstrate that the predicted attributes of millions of individuals can, in turn, accurately reconstruct the distribution of wealth of an entire nation or to infer the asset distribution of microregions composed of just a few households. In resource-constrained environments where censuses and household surveys are rare, this approach creates an option for gathering localized and timely information at a fraction of the cost of traditional methods. In developing countries, collecting data on basic economic quantities, such as wealth and income, is costly, time-consuming, and unreliable. Taking advantage of the ubiquity of mobile phones in Rwanda, Blumenstock et al. mapped mobile phone metadata inputs to individual phone subscriber wealth. They applied the model to predict wealth throughout Rwanda and show that the predictions matched well with those from detailed boots-on-the-ground surveys of the population. Science, this issue p. 1073 Metadata from individuals? phones can be used to predict aggregate-level characteristics such as access to electricity. Accurate and timely estimates of population characteristics are a critical input to social and economic research and policy. In industrialized economies, novel sources of data are enabling new approaches to demographic profiling, but in developing countries, fewer sources of big data exist. We show that an individual?s past history of mobile phone use can be used to infer his or her socioeconomic status. Furthermore, we demonstrate that the predicted attributes of millions of individuals can, in turn, accurately reconstruct the distribution of wealth of an entire nation or to infer the asset distribution of microregions composed of just a few households. In resource-constrained environments where censuses and household surveys are rare, this approach creates an option for gathering localized and timely information at a fraction of the cost of traditional methods.}
+      \field{journaltitle}{Science}
+      \field{number}{6264}
+      \field{title}{Predicting poverty and wealth from mobile phone metadata}
+      \field{volume}{350}
+      \field{year}{2015}
+      \field{pages}{1073\bibrangedash 1076}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.aac4420
+      \endverb
+      \verb{file}
+      \verb Blumenstock et al.2017{\_}poverty:Attachments/Blumenstock et al.2017{\_}poverty.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Deaton.1989}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=49e860b4f71d798fa4f5cf1c90103fc4}{%
+           family={Deaton},
+           familyi={D\bibinitperiod},
+           given={Angus},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{49e860b4f71d798fa4f5cf1c90103fc4}
+      \strng{fullhash}{49e860b4f71d798fa4f5cf1c90103fc4}
+      \strng{bibnamehash}{49e860b4f71d798fa4f5cf1c90103fc4}
+      \strng{authorbibnamehash}{49e860b4f71d798fa4f5cf1c90103fc4}
+      \strng{authornamehash}{49e860b4f71d798fa4f5cf1c90103fc4}
+      \strng{authorfullhash}{49e860b4f71d798fa4f5cf1c90103fc4}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Rice is a staple crop in Thailand, significantly entering both household production and consumption. This paper examines the effect of rice prices on the distribution of real income across households, taking into account household characteristics and geographical location. The data set is a large-scale survey of 11,893 households. Simple nonparametric techniques for regression and density estimation are used. These methods depend on few assumptions and generate flexible graphical results that are directly informative about the problem at hand. The main results are that higher rice prices should benefit all rural households, but the largest benefits accrue to rural households in the middle of the income distribution. Copyright 1989 by Royal Economic Society.}
+      \field{journaltitle}{Economic Journal}
+      \field{number}{395}
+      \field{title}{Rice Prices and Income Distribution in Thailand: A Non-parametric Analysis}
+      \field{volume}{99}
+      \field{year}{1989}
+      \field{pages}{1\bibrangedash 37}
+      \range{pages}{37}
+      \verb{urlraw}
+      \verb https://EconPapers.repec.org/RePEc:ecj:econjl:v:99:y:1989:i:395:p:1-37
+      \endverb
+      \verb{url}
+      \verb https://EconPapers.repec.org/RePEc:ecj:econjl:v:99:y:1989:i:395:p:1-37
+      \endverb
+    \endentry
+    \entry{Dixit.1980}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f84da1f0789e9be1355e60ec6c608482}{%
+           family={Dixit},
+           familyi={D\bibinitperiod},
+           given={Avinash},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e7b890a3208260aaffb5056d66f6763}{%
+           family={Norman},
+           familyi={N\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{599e1b80ac15980bf3ccbea83fd24226}
+      \strng{fullhash}{599e1b80ac15980bf3ccbea83fd24226}
+      \strng{bibnamehash}{599e1b80ac15980bf3ccbea83fd24226}
+      \strng{authorbibnamehash}{599e1b80ac15980bf3ccbea83fd24226}
+      \strng{authornamehash}{599e1b80ac15980bf3ccbea83fd24226}
+      \strng{authorfullhash}{599e1b80ac15980bf3ccbea83fd24226}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This book expounds trade theory emphasizing that a trading equilibrium is general rather than partial, and is often best modelled using dual or envelope functions. This yields a compact treatment of standard theory, clarifies some errors and confusions, and produces some new departures. In particular, the book (i) gives unified treatments of comparative statics and welfare, (ii) sheds new light on the factor-price equalization issue, (iii) treats the modern specific-factor model in parallel with the usual Heckscher-Ohlin one, (iv) analyses the balance of payments in general equilibrium with flexible and fixed prices, (v) studies imperfect competition and intra-industry trade.}
+      \field{isbn}{9780521299695}
+      \field{series}{Cambridge Economic Handbooks}
+      \field{title}{Theory of International Trade: A Dual, General Equilibrium Approach}
+      \field{year}{1980}
+      \verb{doi}
+      \verb 10.1017/CBO9780511628627
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/books/theory-of-international-trade/44CEE96BF93E5DCE61F0E5304849363A
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/books/theory-of-international-trade/44CEE96BF93E5DCE61F0E5304849363A
+      \endverb
+    \endentry
+    \entry{Meyer.2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3517ba005ca0b2263e558bdc3fa650fa}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Bruce\bibnamedelima D.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a46227025bdcc28fd1b83a612d9aeaa}{%
+           family={Mok},
+           familyi={M\bibinitperiod},
+           given={Wallace\bibnamedelimb K.\bibnamedelimi C.},
+           giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf6d5503fd5e29a1e077b421cd1026c2}{%
+           family={Sullivan},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima X.},
+           giveni={J\bibinitperiod\bibinitdelim X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b8a223651493044d0e72866e846b0d0}
+      \strng{fullhash}{5b8a223651493044d0e72866e846b0d0}
+      \strng{bibnamehash}{5b8a223651493044d0e72866e846b0d0}
+      \strng{authorbibnamehash}{5b8a223651493044d0e72866e846b0d0}
+      \strng{authornamehash}{5b8a223651493044d0e72866e846b0d0}
+      \strng{authorfullhash}{5b8a223651493044d0e72866e846b0d0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0895-3309}
+      \field{journaltitle}{Journal of Economic Perspectives}
+      \field{number}{4}
+      \field{title}{Household Surveys in Crisis}
+      \field{volume}{29}
+      \field{year}{2015}
+      \field{pages}{199\bibrangedash 226}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1257/jep.29.4.199
+      \endverb
+      \verb{file}
+      \verb jep.29.4.199:Attachments/jep.29.4.199.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Nicita.2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=58b765c10809a3f6fa66981d971eac69}{%
+           family={Nicita},
+           familyi={N\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8644cca5f76bb5c877ff23b977287660}{%
+           family={Olarreaga},
+           familyi={O\bibinitperiod},
+           given={Marcelo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4f3994c920728221dcaf1f5b403c77e}{%
+           family={Porto},
+           familyi={P\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1845825a9acabd0a3896076877a0051a}
+      \strng{fullhash}{1845825a9acabd0a3896076877a0051a}
+      \strng{bibnamehash}{1845825a9acabd0a3896076877a0051a}
+      \strng{authorbibnamehash}{1845825a9acabd0a3896076877a0051a}
+      \strng{authornamehash}{1845825a9acabd0a3896076877a0051a}
+      \strng{authorfullhash}{1845825a9acabd0a3896076877a0051a}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Journal of International Economics, 92 (2014) 252-265. doi:10.1016/j.jinteco.2014.01.001}
+      \field{issn}{00221996}
+      \field{journaltitle}{Journal of International Economics}
+      \field{number}{2}
+      \field{title}{Pro-poor trade policy in Sub-Saharan Africa}
+      \field{volume}{92}
+      \field{year}{2014}
+      \field{pages}{252\bibrangedash 265}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.jinteco.2014.01.001
+      \endverb
+      \verb{file}
+      \verb 1-s2.0-S0022199614000038-main:Attachments/1-s2.0-S0022199614000038-main.pdf:application/pdf
+      \endverb
+      \keyw{Poverty;Sub-Saharan Africa;Trade policy;Wage elasticities}
+    \endentry
+    \entry{Olarreaga.2001}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8644cca5f76bb5c877ff23b977287660}{%
+           family={Olarreaga},
+           familyi={O\bibinitperiod},
+           given={Marcelo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58b765c10809a3f6fa66981d971eac69}{%
+           family={Nicita},
+           familyi={N\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{612e339e970c74bfea28acc6e587c799}
+      \strng{fullhash}{612e339e970c74bfea28acc6e587c799}
+      \strng{bibnamehash}{612e339e970c74bfea28acc6e587c799}
+      \strng{authorbibnamehash}{612e339e970c74bfea28acc6e587c799}
+      \strng{authornamehash}{612e339e970c74bfea28acc6e587c799}
+      \strng{authorfullhash}{612e339e970c74bfea28acc6e587c799}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Trade and Production, 1976--99}
+      \field{year}{2001}
+      \verb{doi}
+      \verb 10.1596/1813-9450-2701
+      \endverb
+      \verb{file}
+      \verb multi0page:Attachments/multi0page.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Porto.2006}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d4f3994c920728221dcaf1f5b403c77e}{%
+           family={Porto},
+           familyi={P\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4f3994c920728221dcaf1f5b403c77e}
+      \strng{fullhash}{d4f3994c920728221dcaf1f5b403c77e}
+      \strng{bibnamehash}{d4f3994c920728221dcaf1f5b403c77e}
+      \strng{authorbibnamehash}{d4f3994c920728221dcaf1f5b403c77e}
+      \strng{authornamehash}{d4f3994c920728221dcaf1f5b403c77e}
+      \strng{authorfullhash}{d4f3994c920728221dcaf1f5b403c77e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper develops a method to estimate the general equilibrium distributional effects of trade policies using household survey data. Trade reforms cause the domestic prices of traded goods to change and this, in turn, triggers a series of general equilibrium effects. Among these, I estimate the impacts of trade on the prices of traded goods, non-traded goods, and wages. By combining the estimates of the consumption impacts and the labor income impacts, I am able to assess how trade policies affect households across the entire range of the income distribution. An application of the procedure to the study of the distributional effects of Mercosur shows that the average poor and middle-income family in Argentina has benefited from the trade agreement.}
+      \field{issn}{00221996}
+      \field{journaltitle}{Journal of International Economics}
+      \field{number}{1}
+      \field{title}{Using survey data to assess the distributional effects of trade policy}
+      \field{volume}{70}
+      \field{year}{2006}
+      \field{pages}{140\bibrangedash 160}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1016/j.jinteco.2005.09.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022199606000195
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022199606000195
+      \endverb
+      \keyw{Household welfare;Income distribution;Trade reforms}
+    \endentry
+    \entry{Singh.1986}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=86e56f04404dd09772e60a0505c1784a}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Inderjit},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56ee4cde2b5196bb1cd9c4449e8bbf4c}{%
+           family={Squire},
+           familyi={S\bibinitperiod},
+           given={Lyn},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee71acb701cdaed782b8857bcc90add8}{%
+           family={Strauss},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6be9edaa9d47313df018e0f5b8fe9646}
+      \strng{fullhash}{6be9edaa9d47313df018e0f5b8fe9646}
+      \strng{bibnamehash}{6be9edaa9d47313df018e0f5b8fe9646}
+      \strng{authorbibnamehash}{6be9edaa9d47313df018e0f5b8fe9646}
+      \strng{authornamehash}{6be9edaa9d47313df018e0f5b8fe9646}
+      \strng{authorfullhash}{6be9edaa9d47313df018e0f5b8fe9646}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{[Semicommercial farms that produce multiple crops make up a large part of the agricultural sector in developing economies. These farms or agricultural households combine two fundamental units of microeconomic analysis: the household and the firm. Traditional economic theory has dealt with these units separately. But in developing economies in which peasant farms dominate, their interdependence is of crucial importance. Researchers at the Food Research Institute, Stanford University, and at the World Bank have developed models of agricultural households that combine producer and consumer behavior in a theoretically consistent fashion. Recent empirical applications of these models have extended them and expanded the range of policy issues which can be investigated using this general framework. This article reports the results of empirical applications of this model in India, Indonesia, Japan, the Republic of Korea, Malaysia, Nigeria, Senegal, Sierra Leone, Taiwan, and Thailand. It provides a comparative analysis of the policy implications of the approach for such matters as the welfare of farm households, the size of marketed surplus, the demand for nonagricultural goods and services, and for hired labor, and the availability of budget revenues and foreign exchange.]}
+      \field{issn}{02586770}
+      \field{journaltitle}{The World Bank Economic Review}
+      \field{number}{1}
+      \field{title}{A Survey of Agricultural Household Models: Recent Findings and Policy Implications}
+      \field{volume}{1}
+      \field{year}{1986}
+      \field{pages}{149\bibrangedash 179}
+      \range{pages}{31}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/3989948
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/3989948
+      \endverb
+    \endentry
+    \entry{Winters.2004}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7e4a555a16d2088c519befe98eccc805}{%
+           family={Winters},
+           familyi={W\bibinitperiod},
+           given={L.\bibnamedelimi Alan},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88c71edb25870f458a2645a8cf602503}{%
+           family={McCulloch},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8799de1f91fdf7d027ca9ccd5df6bbbe}{%
+           family={McKay},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{697a6c9917fa6668c0a33cbc5afa5997}
+      \strng{fullhash}{697a6c9917fa6668c0a33cbc5afa5997}
+      \strng{bibnamehash}{697a6c9917fa6668c0a33cbc5afa5997}
+      \strng{authorbibnamehash}{697a6c9917fa6668c0a33cbc5afa5997}
+      \strng{authornamehash}{697a6c9917fa6668c0a33cbc5afa5997}
+      \strng{authorfullhash}{697a6c9917fa6668c0a33cbc5afa5997}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00220515}
+      \field{journaltitle}{Journal of Economic Literature}
+      \field{number}{1}
+      \field{title}{Trade Liberalization and Poverty: The Evidence so Far}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{42}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \field{pages}{72\bibrangedash 115}
+      \range{pages}{44}
+      \verb{file}
+      \verb 3217037:Attachments/3217037.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/3217037
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/3217037
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

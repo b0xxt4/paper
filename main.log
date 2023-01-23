@@ -1,171 +1,73 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.12)  29 DEC 2022 18:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.12)  20 JAN 2023 19:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/hoelt/OneDrive - hs-bochum.de/Semester 7/IEP/paper/main.tex"
+**"c:/Users/hoelt/OneDrive - hs-bochum.de/Semester 7/IEP/paper/main"
 (c:/Users/hoelt/OneDrive - hs-bochum.de/Semester 7/IEP/paper/main.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-09-28> (c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrreprt.cls
-Document Class: scrreprt 2022/07/04 v3.37 KOMA-Script document class (report)
-(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2022/07/04 v3.37 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
- (c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2022/07/04 v3.37 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
- (c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2022/07/04 v3.37 KOMA-Script package (file load hooks)
- (c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
-Package: scrlfile-hook 2022/07/04 v3.37 KOMA-Script package (using LaTeX hooks)
- (c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrlogo.sty
-Package: scrlogo 2022/07/04 v3.37 KOMA-Script package (logo)
-))) (c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+L3 programming layer <2022-09-28> (c:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(c:/texlive/2022/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
-Already applied: [0000/00/00] Usage of raw or classic option list on input line 368.
-)) (c:/texlive/2022/texmf-dist/tex/latex/koma-script/tocbasic.sty
-Package: tocbasic 2022/07/04 v3.37 KOMA-Script package (handling toc-files)
-\scr@dte@tocline@numberwidth=\skip47
-\scr@dte@tocline@numbox=\box51
-)
-Package tocbasic Info: babel extension for `toc' omitted
-(tocbasic)             because of missing \bbl@set@language on input line 137.
-Package scrreprt Info: You've used standard option `12pt'.
-(scrreprt)             This is correct!
-(scrreprt)             Internally I'm using `fontsize=12pt'.
-(scrreprt)             If you'd like to set the option with \KOMAoptions,
-(scrreprt)             you'd have to use `fontsize=12pt' there
-(scrreprt)             instead of `12pt', too.
-Class scrreprt Info: File `scrsize12pt.clo' used to setup font sizes on input line 2566.
- (c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
-File: scrsize12pt.clo 2022/07/04 v3.37 KOMA-Script font size class option (12pt)
-) (c:/texlive/2022/texmf-dist/tex/latex/koma-script/typearea.sty
-Package: typearea 2022/07/04 v3.37 KOMA-Script package (type area)
-\ta@bcor=\skip48
-\ta@div=\count185
-Package typearea Info: You've used standard option `a4paper'.
-(typearea)             This is correct!
-(typearea)             Internally I'm using `paper=a4'.
-(typearea)             If you'd like to set the option with \KOMAoptions,
-(typearea)             you'd have to use `paper=a4' there
-(typearea)             instead of `a4paper', too.
-\ta@hblk=\skip49
-\ta@vblk=\skip50
-\ta@temp=\skip51
-\footheight=\skip52
-Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 12
-(typearea)             BCOR = 0.0pt
-(typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 448.13095pt
-(typearea)              DIV departure   = -6%
-(typearea)              \evensidemargin = 2.4185pt
-(typearea)              \oddsidemargin  = 2.4185pt
-(typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 635.5pt
-(typearea)              \topmargin      = -41.72441pt
-(typearea)              \headheight     = 18.125pt
-(typearea)              \headsep        = 21.75pt
-(typearea)              \topskip        = 12.0pt
-(typearea)              \footskip       = 50.75pt
-(typearea)              \baselineskip   = 14.5pt
-(typearea)              on input line 1766.
-)
-\c@part=\count186
-\c@chapter=\count187
-\c@section=\count188
-\c@subsection=\count189
-\c@subsubsection=\count190
-\c@paragraph=\count191
-\c@subparagraph=\count192
-\scr@dte@chapter@maxnumwidth=\skip53
-Class scrreprt Info: using compatibility default `afterindent=bysign'
-(scrreprt)           for `\chapter on input line 5805.
-\scr@dte@section@maxnumwidth=\skip54
-Class scrreprt Info: using compatibility default `runin=bysign'
-(scrreprt)           for `\section on input line 5816.
-Class scrreprt Info: using compatibility default `afterindent=bysign'
-(scrreprt)           for `\section on input line 5816.
-\scr@dte@part@maxnumwidth=\skip55
-Class scrreprt Info: using compatibility default `afterindent=true'
-(scrreprt)           for `\part on input line 5825.
-\scr@dte@subsection@maxnumwidth=\skip56
-Class scrreprt Info: using compatibility default `runin=bysign'
-(scrreprt)           for `\subsection on input line 5835.
-Class scrreprt Info: using compatibility default `afterindent=bysign'
-(scrreprt)           for `\subsection on input line 5835.
-\scr@dte@subsubsection@maxnumwidth=\skip57
-Class scrreprt Info: using compatibility default `runin=bysign'
-(scrreprt)           for `\subsubsection on input line 5845.
-Class scrreprt Info: using compatibility default `afterindent=bysign'
-(scrreprt)           for `\subsubsection on input line 5845.
-\scr@dte@paragraph@maxnumwidth=\skip58
-Class scrreprt Info: using compatibility default `runin=bysign'
-(scrreprt)           for `\paragraph on input line 5856.
-Class scrreprt Info: using compatibility default `afterindent=bysign'
-(scrreprt)           for `\paragraph on input line 5856.
-\scr@dte@subparagraph@maxnumwidth=\skip59
-Class scrreprt Info: using compatibility default `runin=bysign'
-(scrreprt)           for `\subparagraph on input line 5866.
-Class scrreprt Info: using compatibility default `afterindent=bysign'
-(scrreprt)           for `\subparagraph on input line 5866.
-\abovecaptionskip=\skip60
-\belowcaptionskip=\skip61
-\c@pti@nb@sid@b@x=\box52
-Package tocbasic Info: babel extension for `lof' omitted
-(tocbasic)             because of missing \bbl@set@language on input line 7031.
-\scr@dte@figure@maxnumwidth=\skip62
-\c@figure=\count193
-Package tocbasic Info: babel extension for `lot' omitted
-(tocbasic)             because of missing \bbl@set@language on input line 7048.
-\scr@dte@table@maxnumwidth=\skip63
-\c@table=\count194
-Class scrreprt Info: Redefining `\numberline' on input line 7219.
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
 \bibindent=\dimen138
 ) (c:/texlive/2022/texmf-dist/tex/latex/tools/layout.sty
 Package: layout 2021-03-10 v1.2e Show layout parameters
-\oneinch=\count195
-\cnt@paperwidth=\count196
-\cnt@paperheight=\count197
-\cnt@hoffset=\count198
-\cnt@voffset=\count199
-\cnt@textheight=\count266
-\cnt@textwidth=\count267
-\cnt@topmargin=\count268
-\cnt@oddsidemargin=\count269
-\cnt@evensidemargin=\count270
-\cnt@headheight=\count271
-\cnt@headsep=\count272
-\cnt@marginparsep=\count273
-\cnt@marginparwidth=\count274
-\cnt@marginparpush=\count275
-\cnt@footskip=\count276
-\fheight=\count277
-\ref@top=\count278
-\ref@hoffset=\count279
-\ref@voffset=\count280
-\ref@head=\count281
-\ref@body=\count282
-\ref@foot=\count283
-\ref@margin=\count284
-\ref@marginwidth=\count285
-\ref@marginpar=\count286
-\Interval=\count287
-\ExtraYPos=\count288
-\PositionX=\count289
-\PositionY=\count290
-\ArrowLength=\count291
+\oneinch=\count193
+\cnt@paperwidth=\count194
+\cnt@paperheight=\count195
+\cnt@hoffset=\count196
+\cnt@voffset=\count197
+\cnt@textheight=\count198
+\cnt@textwidth=\count199
+\cnt@topmargin=\count266
+\cnt@oddsidemargin=\count267
+\cnt@evensidemargin=\count268
+\cnt@headheight=\count269
+\cnt@headsep=\count270
+\cnt@marginparsep=\count271
+\cnt@marginparwidth=\count272
+\cnt@marginparpush=\count273
+\cnt@footskip=\count274
+\fheight=\count275
+\ref@top=\count276
+\ref@hoffset=\count277
+\ref@voffset=\count278
+\ref@head=\count279
+\ref@body=\count280
+\ref@foot=\count281
+\ref@margin=\count282
+\ref@marginwidth=\count283
+\ref@marginpar=\count284
+\Interval=\count285
+\ExtraYPos=\count286
+\PositionX=\count287
+\PositionY=\count288
+\ArrowLength=\count289
 ) (c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (c:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (c:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count292
-\Gm@cntv=\count293
-\c@Gm@tempcnt=\count294
+\Gm@cnth=\count290
+\Gm@cntv=\count291
+\c@Gm@tempcnt=\count292
 \Gm@bindingoffset=\dimen139
 \Gm@wd@mp=\dimen140
 \Gm@odd@mp=\dimen141
@@ -192,106 +94,323 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
-)
-
-Class scrreprt Warning: Usage of package `titlesec' together
-(scrreprt)              with a KOMA-Script class is not recommended.
-(scrreprt)              I'd suggest to use KOMA-Script features
-(scrreprt)              like \setkomafont, \RedeclareSectionCommand, \sectionlinesformat
-(scrreprt)              and several others to re-configure section
-(scrreprt)              headings.
-(scrreprt)              Nevertheless, using requested
-(scrreprt)              package `titlesec' on input line 6.
-
-(c:/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (c:/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box53
-\beforetitleunit=\skip64
-\aftertitleunit=\skip65
+\ttl@box=\box51
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
 \ttl@plus=\dimen151
 \ttl@minus=\dimen152
 \ttl@toksa=\toks18
 \titlewidth=\dimen153
 \titlewidthlast=\dimen154
 \titlewidthfirst=\dimen155
-
-
-Package titlesec Warning: Non standard sectioning command \section
-(titlesec)                detected. Using default spacing and no format.
-
-
-Package titlesec Warning: Non standard sectioning command \subsection
-(titlesec)                detected. Using default spacing and no format.
-
-
-Package titlesec Warning: Non standard sectioning command \subsubsection
-(titlesec)                detected. Using default spacing and no format.
-
-
-Package titlesec Warning: Non standard sectioning command \paragraph
-(titlesec)                detected. Using default spacing and no format.
-
-
-Package titlesec Warning: Non standard sectioning command \subparagraph
-(titlesec)                detected. Using default spacing and no format.
-
 ) (c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
  (c:/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count295
+\etb@tempcnta=\count293
 )
 \MT@toks=\toks19
-\MT@tempbox=\box54
-\MT@count=\count296
+\MT@tempbox=\box52
+\MT@count=\count294
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
 LaTeX Info: Redefining \leftprotrusion on input line 1046.
 LaTeX Info: Redefining \rightprotrusion on input line 1056.
 LaTeX Info: Redefining \textls on input line 1234.
 \MT@outer@kern=\dimen156
 LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
-\MT@listname@count=\count297
+\MT@listname@count=\count295
  (c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 900.
 LaTeX Info: Redefining \lslig on input line 900.
-\MT@outer@space=\skip66
+\MT@outer@space=\skip51
 )
 Package microtype Info: Loading configuration file microtype.cfg.
  (c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
-)) (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+)) (c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (c:/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count296
+\csq@gtype=\count297
+\csq@glevel=\count298
+\csq@qlevel=\count299
+\csq@maxlvl=\count300
+\csq@tshold=\count301
+\csq@ltx@everypar=\toks20
+ (c:/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (c:/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)) (c:/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
+ (c:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (c:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (c:/texlive/2022/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (c:/texlive/2022/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count302
+ (c:/texlive/2022/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (c:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count303
+\c@listtotal=\count304
+\c@listcount=\count305
+\c@liststart=\count306
+\c@liststop=\count307
+\c@citecount=\count308
+\c@citetotal=\count309
+\c@multicitecount=\count310
+\c@multicitetotal=\count311
+\c@instcount=\count312
+\c@maxnames=\count313
+\c@minnames=\count314
+\c@maxitems=\count315
+\c@minitems=\count316
+\c@citecounter=\count317
+\c@maxcitecounter=\count318
+\c@savedcitecounter=\count319
+\c@uniquelist=\count320
+\c@uniquename=\count321
+\c@refsection=\count322
+\c@refsegment=\count323
+\c@maxextratitle=\count324
+\c@maxextratitleyear=\count325
+\c@maxextraname=\count326
+\c@maxextradate=\count327
+\c@maxextraalpha=\count328
+\c@abbrvpenalty=\count329
+\c@highnamepenalty=\count330
+\c@lownamepenalty=\count331
+\c@maxparens=\count332
+\c@parenlevel=\count333
+\blx@tempcnta=\count334
+\blx@tempcntb=\count335
+\blx@tempcntc=\count336
+\c@blx@maxsection=\count337
+\blx@maxsegment@0=\count338
+\blx@notetype=\count339
+\blx@parenlevel@text=\count340
+\blx@parenlevel@foot=\count341
+\blx@sectionciteorder@0=\count342
+\blx@sectionciteorderinternal@0=\count343
+\blx@entrysetcounter=\count344
+\blx@biblioinstance=\count345
+\labelnumberwidth=\skip52
+\labelalphawidth=\skip53
+\biblabelsep=\skip54
+\bibitemsep=\skip55
+\bibnamesep=\skip56
+\bibinitsep=\skip57
+\bibparsep=\skip58
+\bibhang=\skip59
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language87
+\c@mincomprange=\count346
+\c@maxcomprange=\count347
+\c@mincompwidth=\count348
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count349
+\c@savedafterword=\count350
+\c@annotator=\count351
+\c@savedannotator=\count352
+\c@author=\count353
+\c@savedauthor=\count354
+\c@bookauthor=\count355
+\c@savedbookauthor=\count356
+\c@commentator=\count357
+\c@savedcommentator=\count358
+\c@editor=\count359
+\c@savededitor=\count360
+\c@editora=\count361
+\c@savededitora=\count362
+\c@editorb=\count363
+\c@savededitorb=\count364
+\c@editorc=\count365
+\c@savededitorc=\count366
+\c@foreword=\count367
+\c@savedforeword=\count368
+\c@holder=\count369
+\c@savedholder=\count370
+\c@introduction=\count371
+\c@savedintroduction=\count372
+\c@namea=\count373
+\c@savednamea=\count374
+\c@nameb=\count375
+\c@savednameb=\count376
+\c@namec=\count377
+\c@savednamec=\count378
+\c@translator=\count379
+\c@savedtranslator=\count380
+\c@shortauthor=\count381
+\c@savedshortauthor=\count382
+\c@shorteditor=\count383
+\c@savedshorteditor=\count384
+\c@labelname=\count385
+\c@savedlabelname=\count386
+\c@institution=\count387
+\c@savedinstitution=\count388
+\c@lista=\count389
+\c@savedlista=\count390
+\c@listb=\count391
+\c@savedlistb=\count392
+\c@listc=\count393
+\c@savedlistc=\count394
+\c@listd=\count395
+\c@savedlistd=\count396
+\c@liste=\count397
+\c@savedliste=\count398
+\c@listf=\count399
+\c@savedlistf=\count400
+\c@location=\count401
+\c@savedlocation=\count402
+\c@organization=\count403
+\c@savedorganization=\count404
+\c@origlocation=\count405
+\c@savedoriglocation=\count406
+\c@origpublisher=\count407
+\c@savedorigpublisher=\count408
+\c@publisher=\count409
+\c@savedpublisher=\count410
+\c@language=\count411
+\c@savedlanguage=\count412
+\c@origlanguage=\count413
+\c@savedoriglanguage=\count414
+\c@pageref=\count415
+\c@savedpageref=\count416
+\shorthandwidth=\skip60
+\shortjournalwidth=\skip61
+\shortserieswidth=\skip62
+\shorttitlewidth=\skip63
+\shortauthorwidth=\skip64
+\shorteditorwidth=\skip65
+\locallabelnumberwidth=\skip66
+\locallabelalphawidth=\skip67
+\localshorthandwidth=\skip68
+\localshortjournalwidth=\skip69
+\localshortserieswidth=\skip70
+\localshorttitlewidth=\skip71
+\localshortauthorwidth=\skip72
+\localshorteditorwidth=\skip73
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+\c@textcitecount=\count417
+\c@textcitetotal=\count418
+\c@textcitemaxnames=\count419
+\c@biburlbigbreakpenalty=\count420
+\c@biburlbreakpenalty=\count421
+\c@biburlnumpenalty=\count422
+\c@biburlucpenalty=\count423
+\c@biburllcpenalty=\count424
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count425
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count426
+\c@bbx:relatedtotal=\count427
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (c:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
+ (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
-\l__pdf_internal_box=\box55
-) (./main.aux)
+\l__color_backend_stack_int=\count428
+\l__pdf_internal_box=\box53
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2022-09-28 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (c:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... none found.
+ (./main.aux (./misc/title.aux) (./chapter/introduction.aux) (./chapter/data.aux) (./chapter/study.aux) (./chapter/critic.aux) (./chapter/conclusion.aux) (./misc/declaration.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-Package scrbase Info: activating english \abstractname on input line 11.
-Package scrbase Info: activating english \partname on input line 11.
-Package scrbase Info: activating english \chaptername on input line 11.
-Package scrbase Info: activating english \appendixname on input line 11.
-Package scrbase Info: activating english \figurename on input line 11.
-Package scrbase Info: activating english \tablename on input line 11.
-Package scrbase Info: activating english \contentsname on input line 11.
-Package scrbase Info: activating english \listfigurename on input line 11.
-Package scrbase Info: activating english \listtablename on input line 11.
-Package scrbase Info: activating english \bibname on input line 11.
-Package scrbase Info: activating english \indexname on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -309,13 +428,13 @@ Package scrbase Info: activating english \indexname on input line 11.
 * \textheight=702.78308pt
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
-* \topmargin=-41.0131pt
-* \headheight=18.125pt
-* \headsep=21.75pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
 * \topskip=12.0pt
-* \footskip=50.75pt
-* \marginparwidth=49.79233pt
-* \marginparsep=12.8401pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
@@ -329,41 +448,56 @@ Package scrbase Info: activating english \indexname on input line 11.
 
 (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
+\scratchcounter=\count429
 \scratchdimen=\dimen157
-\scratchbox=\box56
-\nofMPsegments=\count300
-\nofMParguments=\count301
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count302
+\scratchbox=\box54
+\nofMPsegments=\count430
+\nofMParguments=\count431
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count432
 \MPscratchDim=\dimen158
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
-\everyMPtoPDFconversion=\toks21
+\MPnumerator=\count433
+\makeMPintoPDFobject=\count434
+\everyMPtoPDFconversion=\toks22
 ) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \microtypecontext on input line 11.
-Package microtype Info: Applying patch `item' on input line 11.
-Package microtype Info: Applying patch `toc' on input line 11.
-Package microtype Info: Applying patch `eqnum' on input line 11.
-Package microtype Info: Applying patch `footnote' on input line 11.
+LaTeX Info: Redefining \microtypecontext on input line 15.
+Package microtype Info: Applying patch `item' on input line 15.
+Package microtype Info: Applying patch `toc' on input line 15.
+Package microtype Info: Applying patch `eqnum' on input line 15.
+Package microtype Info: Applying patch `footnote' on input line 15.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 11.
+LaTeX Info: Redefining \showhyphens on input line 15.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
  (c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (c:/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
+Package biblatex Info: Reference section=0 on input line 15.
+Package biblatex Info: Reference segment=0 on input line 15.
 \openout2 = `misc/title.aux'.
 
  (./misc/title.tex
@@ -381,129 +515,60 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 3--40
 [1
 
 
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./main.toc)
+\tf@toc=\write4
+\openout4 = `main.toc'.
 
-
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-\openout2 = `misc/abstract.aux'.
-
- (./misc/abstract.tex [2
-
-
-
-
-
-])
-
-Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makeschapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makeschapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmss' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-Package tocbasic Info: character protrusion at toc deactivated on input line 15.
-No file main.toc.
-\tf@toc=\write3
-\openout3 = `main.toc'.
-
-[3
-
+ [1
 
 
 ]
 \openout2 = `chapter/introduction.aux'.
 
  (./chapter/introduction.tex
-chapter 1.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--15
+Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-) [4
 
+Underfull \hbox (badness 10000) in paragraph at lines 8--18
+
+ []
+
+) [2
 
 ]
 \openout2 = `chapter/data.aux'.
 
  (./chapter/data.tex
-chapter 2.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-<graphics/householdsurvey1.jpg, id=20, 532.23843pt x 377.15906pt>
+<graphics/householdsurvey1.jpg, id=19, 532.23843pt x 377.15906pt>
 File: graphics/householdsurvey1.jpg Graphic file (type jpg)
 <use graphics/householdsurvey1.jpg>
-Package pdftex.def Info: graphics/householdsurvey1.jpg  used on input line 11.
-(pdftex.def)             Requested size: 266.11856pt x 188.57907pt.
-<graphics/householdsurvey2.jpg, id=22, 520.19344pt x 372.64218pt>
+Package pdftex.def Info: graphics/householdsurvey1.jpg  used on input line 10.
+(pdftex.def)             Requested size: 372.56435pt x 264.00954pt.
+<graphics/householdsurvey2.jpg, id=21, 520.19344pt x 372.64218pt>
 File: graphics/householdsurvey2.jpg Graphic file (type jpg)
 <use graphics/householdsurvey2.jpg>
-Package pdftex.def Info: graphics/householdsurvey2.jpg  used on input line 12.
-(pdftex.def)             Requested size: 260.09607pt x 186.32063pt.
-<graphics/templ1.jpg, id=24, 549.55313pt x 304.13625pt>
+Package pdftex.def Info: graphics/householdsurvey2.jpg  used on input line 11.
+(pdftex.def)             Requested size: 364.13292pt x 260.84775pt.
+<graphics/templ1.jpg, id=23, 989.19562pt x 534.49687pt>
 File: graphics/templ1.jpg Graphic file (type jpg)
 <use graphics/templ1.jpg>
-Package pdftex.def Info: graphics/templ1.jpg  used on input line 28.
-(pdftex.def)             Requested size: 469.47049pt x 259.82571pt.
+Package pdftex.def Info: graphics/templ1.jpg  used on input line 32.
+(pdftex.def)             Requested size: 469.47049pt x 253.66844pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--35
-
- []
-
-[5
-
-
-
-
- <./graphics/householdsurvey1.jpg> <./graphics/householdsurvey2.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 36--43
+Underfull \hbox (badness 10000) in paragraph at lines 2--46
 
  []
 
-) [6 <./graphics/templ1.jpg>] [7]
+[3
+
+
+
+ <./graphics/householdsurvey1.jpg> <./graphics/householdsurvey2.jpg>] [4 <./graphics/templ1.jpg>]) [5]
 \openout2 = `chapter/study.aux'.
 
  (./chapter/study.tex
-chapter 3.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 28--31
 
  []
@@ -513,8 +578,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--42
 
  []
 
-[8
-
+[6
 
 
 
@@ -523,160 +587,161 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--76
 
  []
 
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 92--97
 
  []
 
 
-LaTeX Warning: Reference `eq:equation4' on page 10 undefined on input line 93.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--98
-
- []
-
-<graphics/propoor.jpg, id=51, 285.31593pt x 472.76625pt>
-File: graphics/propoor.jpg Graphic file (type jpg)
-<use graphics/propoor.jpg>
-Package pdftex.def Info: graphics/propoor.jpg  used on input line 128.
-(pdftex.def)             Requested size: 142.65761pt x 236.38254pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--132
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 109--116
 
-<graphics/prorich.jpg, id=53, 539.76656pt x 481.8pt>
-File: graphics/prorich.jpg Graphic file (type jpg)
-<use graphics/prorich.jpg>
-Package pdftex.def Info: graphics/prorich.jpg  used on input line 135.
-(pdftex.def)             Requested size: 269.88261pt x 240.8994pt.
+ []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-./chapter/study.tex:139: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 T
-       o tackle the possible trade-off between income inequality and average...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[10] [11 <./graphics/propoor.jpg> <./graphics/prorich.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 161--169
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 160--170
 
  []
 
 
-LaTeX Warning: Reference `fig:tradereso' on page 12 undefined on input line 186.
+Underfull \hbox (badness 10000) in paragraph at lines 171--177
 
-<graphics/trade-off-reso.jpg, id=64, 561.59813pt x 453.94594pt>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--183
+
+ []
+
+<graphics/trade-off-reso.jpg, id=55, 763.35187pt x 593.21625pt>
 File: graphics/trade-off-reso.jpg Graphic file (type jpg)
 <use graphics/trade-off-reso.jpg>
-Package pdftex.def Info: graphics/trade-off-reso.jpg  used on input line 192.
-(pdftex.def)             Requested size: 469.47049pt x 379.47643pt.
+Package pdftex.def Info: graphics/trade-off-reso.jpg  used on input line 200.
+(pdftex.def)             Requested size: 469.47049pt x 364.83035pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--196
+Underfull \hbox (badness 10000) in paragraph at lines 184--204
 
  []
 
-[12]
-<graphics/protectionist.jpg, id=70, 484.81125pt x 458.46281pt>
+[9] [10 <./graphics/trade-off-reso.jpg>]
+<graphics/protectionist.jpg, id=65, 684.30656pt x 639.89063pt>
 File: graphics/protectionist.jpg Graphic file (type jpg)
 <use graphics/protectionist.jpg>
-Package pdftex.def Info: graphics/protectionist.jpg  used on input line 211.
-(pdftex.def)             Requested size: 469.47049pt x 443.98085pt.
-) [13 <./graphics/trade-off-reso.jpg>] [14 <./graphics/protectionist.jpg>]
+Package pdftex.def Info: graphics/protectionist.jpg  used on input line 219.
+(pdftex.def)             Requested size: 273.71777pt x 255.9517pt.
+) [11 <./graphics/protectionist.jpg>]
 \openout2 = `chapter/critic.aux'.
 
  (./chapter/critic.tex
-chapter 4.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--47
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
-[15
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--42
+
+ []
+
+[12
 
 
 
+]
+Underfull \hbox (badness 10000) in paragraph at lines 43--48
 
-]) [16]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--55
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 56--27
+
+ []
+
+[13]
 \openout2 = `chapter/conclusion.aux'.
 
  (./chapter/conclusion.tex
-chapter 5.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--13
+Underfull \hbox (badness 10000) in paragraph at lines 6--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--22
+Underfull \hbox (badness 10000) in paragraph at lines 20--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--31
+Underfull \hbox (badness 10000) in paragraph at lines 29--37
 
  []
 
-[17
+[14
 
 
 
+]) [15]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 34.
+ (c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [16
 
-]) [18] (./main.aux (./misc/title.aux) (./misc/abstract.aux) (./chapter/introduction.aux) (./chapter/data.aux) (./chapter/study.aux) (./chapter/critic.aux) (./chapter/conclusion.aux))
 
-LaTeX Warning: There were undefined references.
+] [17]
+\openout2 = `misc/declaration.aux'.
 
+ (./misc/declaration.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--10
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+ []
+
+<graphics/Unterschrift sized.png, id=93, 138.5175pt x 43.66313pt>
+File: graphics/Unterschrift sized.png Graphic file (type png)
+<use graphics/Unterschrift sized.png>
+Package pdftex.def Info: graphics/Unterschrift sized.png  used on input line 20.
+(pdftex.def)             Requested size: 96.96158pt x 30.56396pt.
+) [18
+
+ <./graphics/Unterschrift sized.png>] (./main.aux (./misc/title.aux) (./chapter/introduction.aux) (./chapter/data.aux) (./chapter/study.aux) (./chapter/critic.aux) (./chapter/conclusion.aux) (./misc/declaration.aux))
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 7734 strings out of 475071
- 152941 string characters out of 5782907
- 680459 words of memory out of 5000000
- 28924 multiletter control sequences out of 15000+600000
- 479570 words of font info for 119 fonts, out of 8000000 for 9000
+ 13395 strings out of 475071
+ 252120 string characters out of 5782907
+ 1076590 words of memory out of 5000000
+ 34461 multiletter control sequences out of 15000+600000
+ 486711 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,14n,106p,10680b,366s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (18 pages, 696714 bytes).
+ 60i,14n,68p,3151b,1911s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc2074.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on main.pdf (19 pages, 867941 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
+ 183 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 32846 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 35395 words of extra memory for PDF output out of 35830 (max. 10000000)
 

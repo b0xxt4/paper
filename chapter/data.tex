@@ -1,51 +1,54 @@
-\chapter{Data}
-
+\section{Data used by Artuc et al.}
 The study by Artuc, Rijkers and Porto used several data sets to enable the heterogenous view of households in regard of their
-expenditures, auto-consumption and incomes.
-One of the main datasets used are household surveys of 54 developing countries which were taken between the years 1998 and
-2015. The dataset covers all low income countries, where appropriate household survey data was available, and additionally
-contains the majority of lower middle income countries.
+expenditures, auto-consumption and incomes. One of the main datasets used were household surveys of 54 developing countries, 
+which were taken between the years 1998 and 2015. The dataset covered all low income countries, where appropriate household survey
+data was available, and additionally contained the majority of lower middle income countries as well in Table \ref{tab:household survey data}
+\parencite[pp.~10-11]{Artuc.2019}.
 %grafik Übersicht Survey Data
-\begin{figure}[ht!]
+\begin{table}[ht!]
     \centering
-    \includegraphics*[scale=0.5]{graphics/householdsurvey1.jpg}
-    \includegraphics*[scale=0.5]{graphics/householdsurvey2.jpg}
-    \caption{Household Survey Data by Artuc, Rijkers and Porto 2019}
-    \label{fig:household survey data}
-\end{figure}\\
-The household survey data was harmonized by adopting and improving templates based on Nicita, Olarreaga and Porto from 2014.
-There are three templates used covering the expenditure of households, their auto-consumption and their income. Those templates 
-contain several categories, which hold a unique two or four-digit ID. \\
-The first template used is the expenditure template, which
-contains the categories agriculture/food, manufacturing/household items, services and other expenditures. The group agriculture/food
-is split into staple and non-staple food. The second group, manufacturing/household items contains energy, textiles/apparel,
-electric/electronics, household items/furniture and other physical goods. The service group contains transportation, health,
-education, communication and other services. Other expenditures shows remittances/transfers given, investment of any sort,
-festivities and other disbursement.\\
+    \includegraphics*[scale=0.7]{graphics/householdsurvey1.jpg}
+    \includegraphics*[scale=0.7]{graphics/householdsurvey2.jpg}
+    \caption{Household Survey Data \parencite[pp.~56-57]{Artuc.2019}}
+    \label{tab:household survey data}
+\end{table}\\
+To enable a comparability of the household survey data, the household survey data was harmonized by adopting and improving templates based 
+on the work of \cite{Nicita.2014}. Using those templates, they were able to map the information at the highest 
+level of disaggregation to the different homogeneous categories \autocite[p.~255]{Nicita.2014}.
+While Nicita, Olarreaga and Porto only developed and used two templates regarding the incomes and expenditures of the households, Artuc, Rijkers
+and Porto added another template to harmonize information regarding the auto-consumption of the households as well, which explained 23 percent
+of the household income \autocites[p.~255]{Nicita.2014}[p.~11]{Artuc.2019}.\\
+There were three templates used, which were covering the expenditure of households, their auto-consumption and their income. Those templates 
+contained several categories, which held a unique two or four-digit ID as seen in Table \ref{tab:template exp} for example \Autocite[p.~10]{Artuc.2019}.\\
+The first template was the expenditure template, which contained the categories agriculture/food, manufacturing/household items, services 
+and other expenditures. The group agriculture/food is split into staple and non-staple food and accounts on average for 45 percent of all 
+household spending across all countries \autocite[p.~12]{Artuc.2019}. The second group, manufacturing/household items contained energy, 
+textiles/apparel, electric/electronics, household items/furniture and other physical goods. The service group contained transportation, health,
+education, communication and other services. Other expenditures shows remittances/transfers given, investment of any sort, festivities and 
+other disbursement \parencite[p.~58]{Artuc.2019}.\\
 %grafik expenditure template
-\begin{figure}[h!]
+\begin{table}[h!]
     \centering
     \includegraphics*[width=\textwidth]{graphics/templ1.jpg}
-    \caption{Expenditure template based on Deaton modified by Artuc, Rijkers and Porto 2019}
-    \label{fig:template exp}
-\end{figure}\\
-The next template regarding the auto-consumption of each household is split into agriculture/food and other goods. Agriculture/food
-contains staple and non-staple food and other goods contains energy, gathering, other goods collected for free and other goods
-produced and consumed within the household.\\
-
-The final template showcasing the income of each householkd is split into agriculture/food, wages, sales of goods/services and 
-transfers. The group agriculture/food contains the same data as mentioned above. Wages contain agriculture/forestry/fishing,
+    \caption{Modified Expenditure template based on \cite{Nicita.2014}\parencite[p.~58]{Artuc.2019}}
+    \label{tab:template exp}
+\end{table}\\
+The next template regarding the auto-consumption of each household was split into agriculture/food and other goods. Agriculture/food
+contained staple and non-staple food and other goods contains energy, gathering, other goods collected for free and other goods
+produced and consumed within the household \parencite[p.~58]{Artuc.2019}.\\
+The final template, showcasing the income of each household, was split into agriculture/food, wages, sales of goods/services and 
+transfers. The group agriculture/food included the same data as mentioned above. Wages contained agriculture/forestry/fishing,
 mining/oil/gas extraction, manufacturing, construction, transportation/communication/electric/gas/sanitary, wholesale/retail,
 finance/insurance/real estate, entertainment services, professional services and public administration. The group sales of
-goods/services contains the same categories as the wages group. The last group transfers includes remittances/transfers received,
-profits of investment, government transfers, non-governmental transfers and others. \\
+goods/services contained the same categories as the wages group. The last group transfers included remittances/transfers received,
+profits of investment, government transfers, non-governmental transfers and others \parencite[p.~59]{Artuc.2019}. \\
 %grafik auto consumption template
 
 Besides the survey data, the authors of the paper also used datasets regarding the quantity and value of traded goods as well 
-as import tariffs on goods for each country. The data regarding the quantity and value of traded goods for each country is 
+as import tariffs on goods for each country. The data regarding the quantity and value of traded goods for each country was 
 sourced from the COMTRADE-Database by the Trade Statistics Section of United Nations Statistics Division.
-The tariff data is sourced from the TRAINS-Database by Trade Information Section of United Nations Conference on Trade and
-Development. Both datasets use the HS 6-digit code to uniquely identify every possible traded good. This HS 6-digit code
-was used to merge with the unique two and four-digit codes from the adopted survey templates. This harmonization leads to the 
-advantage over the most other studies regarding the impact of trade liberalization as household heterogeneity is granted in 
-the data for the model to use.
+The tariff data was sourced from the TRAINS-Database by Trade Information Section of United Nations Conference on Trade and
+Development. Both datasets used the HS 6-digit code to uniquely identify every possible traded good. This HS 6-digit code
+was used to merge with the unique two and four-digit codes from the adopted survey templates. This harmonization led to the 
+advantage over the most of other studies regarding the impact of trade liberalization as household heterogeneity was granted in 
+the data for the model to use \parencite[p.~10]{Artuc.2019}. 
